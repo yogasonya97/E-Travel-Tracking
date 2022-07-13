@@ -1,0 +1,108 @@
+/* 
+    Document   : report
+    Created on : Apr 23, 2014, 9:04:10 AM
+    Author     : Nevil
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.repot_date_la{
+    display: block;
+    float: left;
+    width: 100px;
+}
+
+.main{
+    background-color: #F5F5F5;
+    border: 2px solid #A4A4A4;
+    float: left;
+    height:  400px;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 250px;
+}
+.reportConducter1{
+    background-color: #F5F5F5;
+    border: 2px solid #A4A4A4;
+    float: left;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 250px;
+}
+
+.reportConducter2{
+    background-color: #F5F5F5;
+    border: 2px solid #A4A4A4;
+    float: left;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 250px;
+}
+
+.reportConducterBookingforA{
+    background-color: #F5F5F5;
+    border: 2px solid #A4A4A4;
+    float: left;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 250px;
+}
+
+.reportConducterBookingforC{
+    background-color: #F5F5F5;
+    border: 2px solid #A4A4A4;
+    float: left;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 250px;
+}
+
+.reportConducterBookingforPDF{
+    background-color: #F5F5F5;
+    border: 2px solid #A4A4A4;
+    float: left;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 250px;
+}
+
+.reportTable{
+
+    /*float: left;*/
+    /*margin-left: -244px;*/
+    margin-top: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+
+.loading{
+background:url('../images/processing.gif')no-repeat center center;
+height: 200px;
+    left: 42%;
+    position: fixed;
+    top: 50%;
+    width: 200px;
+    display: none;
+}
